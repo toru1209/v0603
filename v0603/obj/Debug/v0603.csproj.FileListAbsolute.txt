@@ -1,0 +1,10 @@
+C:\Users\student\Documents\1_2_09\v0603\v0603\obj\Debug\v0603.csprojAssemblyReference.cache
+C:\Users\student\Documents\1_2_09\v0603\v0603\obj\Debug\v0603.Form1.resources
+C:\Users\student\Documents\1_2_09\v0603\v0603\obj\Debug\v0603.Properties.Resources.resources
+C:\Users\student\Documents\1_2_09\v0603\v0603\obj\Debug\v0603.csproj.GenerateResource.cache
+C:\Users\student\Documents\1_2_09\v0603\v0603\obj\Debug\v0603.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\1_2_09\v0603\v0603\bin\Debug\v0603.exe.config
+C:\Users\student\Documents\1_2_09\v0603\v0603\bin\Debug\v0603.exe
+C:\Users\student\Documents\1_2_09\v0603\v0603\bin\Debug\v0603.pdb
+C:\Users\student\Documents\1_2_09\v0603\v0603\obj\Debug\v0603.exe
+C:\Users\student\Documents\1_2_09\v0603\v0603\obj\Debug\v0603.pdb
